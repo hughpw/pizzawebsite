@@ -4,14 +4,6 @@
     <a href="https://www.pizzahut.co.uk" target="_blank">
 								<img src="images/img_2.PNG" id="logoImage" />
 							</a>
-
-              
-          <ul>
-          <li><a href="#" class="navlinks">Deals</a></li>
-          <li><a href="#" class="navlinks">Locations</a></li>
-          <li><a href="#" class="navlinks">Help</a></li>
-          <li><a href="#" class="navlinks">Contact</a></li>
-        </ul>
     </header>
 
     <main>
